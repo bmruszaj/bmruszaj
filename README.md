@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm barrtek02</h1>
+<h1 align="center">Hi 👋, I'm Bartłomiej</h1>
 <h3 align="center">I'm an Aspiring System Engineer, currently in my 3rd Year of Bachelor Studies at Wroclaw University of Technology, with a keen interest in Data Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barrtek02&label=Profile%20views&color=0e75b6&style=flat" alt="barrtek02" /> </p>
